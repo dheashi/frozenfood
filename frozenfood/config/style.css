@@ -1,0 +1,20 @@
+.footer{
+	background: #3a4460;
+	padding: 10px 20px;
+	text-align: center;
+	color: white;
+	bottom: 0;
+	width: 100%;
+}
+.button{
+	border-radius: 100%;
+}
+
+.form-login{
+	padding: 10px 20px;
+	margin-top: 5%;
+	margin-left: 10%;
+	margin-right: 10%;
+    background: #c7b299;
+    border-radius: 10px;
+}
